@@ -1,2 +1,2 @@
 # SampleCalc
-Quickly alculate sample tempo/pitch/timestretch
+Quickly calculate sample tempo/pitch/timestretch
